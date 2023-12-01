@@ -87,7 +87,7 @@ DATABASES = {
 'ENGINE': 'djongo',
 "CLIENT": {
 "name": "studentdb_new",
-"host": "mongodb+srv://anishpdm:anishpdm@cluster0.cp5gozh.mongodb.net/?retryWrites=true&w=majority",
+"host": "Url",
 "username": "anishpdm",
 "password": "anishpdm",
 "authMechanism": "SCRAM-SHA-1",
