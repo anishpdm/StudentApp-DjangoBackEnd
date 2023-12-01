@@ -1,3 +1,4 @@
+
 from rest_framework import serializers
 from students.models import StudentModel
 
@@ -13,3 +14,4 @@ class StudentAppSerializer(serializers.ModelSerializer):
             'college'
             
         )
+
